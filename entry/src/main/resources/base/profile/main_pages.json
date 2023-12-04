@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ColumnAndRowDemo",
+    "pages/StackDemo",
+    "pages/RelativeContainerDemo",
+    "pages/FlexDemo",
+    "pages/MediaQueryDemo",
+    "pages/GridDemo",
+    "pages/SwiperDemo",
+    "pages/ComponentsDemo"
+  ]
+}
