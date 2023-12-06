@@ -8,6 +8,8 @@
     "pages/MediaQueryDemo",
     "pages/GridDemo",
     "pages/SwiperDemo",
-    "pages/ComponentsDemo"
+    "pages/ComponentsDemo",
+    "pages/CustomDialogDemo",
+    "pages/PopupAndMenuDemo"
   ]
 }

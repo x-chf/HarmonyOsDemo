@@ -10,6 +10,9 @@ export class CommonConstants {
     this.datas.push(new DataItem("pages/MediaQueryDemo", "媒体查询Demo"))
     this.datas.push(new DataItem("pages/GridDemo", "创建网格Demo"))
     this.datas.push(new DataItem("pages/SwiperDemo", "创建轮播Demo"))
+    this.datas.push(new DataItem("pages/ComponentsDemo", "简单组件Demo"))
+    this.datas.push(new DataItem("pages/CustomDialogDemo", "自定义弹窗"))
+    this.datas.push(new DataItem("pages/PopupDemo", "气泡提示"))
     return this.datas
   }
 }
