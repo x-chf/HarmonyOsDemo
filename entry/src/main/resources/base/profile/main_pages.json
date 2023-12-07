@@ -10,6 +10,7 @@
     "pages/SwiperDemo",
     "pages/ComponentsDemo",
     "pages/CustomDialogDemo",
-    "pages/PopupAndMenuDemo"
+    "pages/PopupAndMenuDemo",
+    "pages/TabsDemo"
   ]
 }
