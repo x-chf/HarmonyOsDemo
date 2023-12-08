@@ -14,6 +14,7 @@ export class CommonConstants {
     this.datas.push(new DataItem("pages/CustomDialogDemo", "自定义弹窗"))
     this.datas.push(new DataItem("pages/PopupDemo", "气泡提示"))
     this.datas.push(new DataItem("pages/TabsDemo", "TabsDemo"))
+    this.datas.push(new DataItem("pages/ImageDemo", "ImageDemo"))
     return this.datas
   }
 }

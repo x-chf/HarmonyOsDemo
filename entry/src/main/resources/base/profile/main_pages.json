@@ -11,6 +11,7 @@
     "pages/ComponentsDemo",
     "pages/CustomDialogDemo",
     "pages/PopupAndMenuDemo",
-    "pages/TabsDemo"
+    "pages/TabsDemo",
+    "pages/ImageDemo"
   ]
 }

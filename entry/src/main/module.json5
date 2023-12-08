@@ -36,7 +36,7 @@
     "requestPermissions": [
       {
         "name": "ohos.permission.INTERNET",
-        "reason": "获取网络权限",
+        "reason": "$string:Request_internet",
         "usedScene": {
           "abilities": [
             "FormAbility"
